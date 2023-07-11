@@ -1,4 +1,2 @@
 #!/bin/bash
-vi \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-insert 
-Best School
+echo "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)
