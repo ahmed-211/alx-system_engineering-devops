@@ -1,3 +1,2 @@
 #!/bin/bash
 num_dirs=$(echo $PATH | tr ':' '\n' | grep -c '/')
-echo "The PATH variable contains $num_dirs directories."
