@@ -1,0 +1,3 @@
+#!/bin/bash
+path_dirs=(${PATH//:/ })
+num_dirs=${#path_dirs[@]}
